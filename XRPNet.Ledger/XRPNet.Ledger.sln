@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRPNet.Ledger", "XRPNet.Ledger\XRPNet.Ledger.csproj", "{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA407EE-E2BB-447F-9EB7-541443E0F706}
+	EndGlobalSection
+EndGlobal
