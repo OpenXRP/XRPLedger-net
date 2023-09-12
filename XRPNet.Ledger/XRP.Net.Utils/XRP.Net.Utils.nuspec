@@ -2,13 +2,14 @@
 <package>
   <metadata>
     <id>OpenXRP.Utils</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>OpenXRP.Utils</title>
     <authors>OpenXRP</authors>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <description>A lightweight XRP library with common utilities and core functions to be shared with the OpenXRP Ecosystem</description>
     <releaseNotes>Package Update</releaseNotes>
+		<projectUrl>https://github.com/OpenXRP</projectUrl>
     <copyright>2023</copyright>
     <tags>xrp,blockchain,bip39,bip32</tags>
     <icon>xrp.png</icon>
