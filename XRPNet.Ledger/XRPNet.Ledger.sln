@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRPNet.Ledger", "XRPNet.Ledger\XRPNet.Ledger.csproj", "{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XRPNet.Ledger", "XRPNet.Ledger\XRPNet.Ledger.csproj", "{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XRP.Net.Utils", "XRP.Net.Utils\XRP.Net.Utils.csproj", "{5F5E5311-E411-485F-9EE7-63DE35096664}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D893EFA9-5BB0-4F7C-BA41-EB152505E7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5E5311-E411-485F-9EE7-63DE35096664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5E5311-E411-485F-9EE7-63DE35096664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5E5311-E411-485F-9EE7-63DE35096664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5E5311-E411-485F-9EE7-63DE35096664}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

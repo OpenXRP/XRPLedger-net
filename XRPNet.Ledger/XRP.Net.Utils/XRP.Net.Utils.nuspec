@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>XRP.Net.Utils</id>
+    <version>1.0.0</version>
+    <title>XRP.Net.Utils</title>
+    <authors>OpenXRP</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A lightweight XRP library with common utilities and core functions to be shared with the OpenXRP Ecosystem</description>
+    <releaseNotes>Package Update</releaseNotes>
+    <copyright>2023</copyright>
+    <tags></tags>
+    <icon>xrp.png</icon>
+  </metadata>
+
+  <files>
+    <file src="bin\Release\netstandard2.0\XRP.Net.Utils.dll" target="lib\netstandard2.0\XRP.Net.Utils.dll"/>
+  </files>
+</package>
